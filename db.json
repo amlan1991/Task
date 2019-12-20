@@ -98,6 +98,7 @@
     "conserved" : false,
     "allowReplacement" : false
   } ],
-  "schemas" : [ "urn:nextgen:schemas:resource:1.0::ListResponse" ],
-  "totalResults" : 7
+  "profile": {
+    "name": "typicode"
+  }
 }
