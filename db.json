@@ -1,4 +1,11 @@
 {
+  "status" : "success",
+  "result" : {
+    "hasMore" : true,
+    "totalResults" : 45,
+    "count" : 25,
+    "limit" : 25,
+    "offset" : 0,
     "resultData" : [ {
       "screeningDate" : "2019-12-20T07:56:34.000Z",
       "codeBreak" : null,
@@ -189,7 +196,7 @@
       "comment" : null,
       "studyVersion" : "1.0.0.3"
     }],
-    
+  
     "profile": {
     "name": "typicode"}
 }}
