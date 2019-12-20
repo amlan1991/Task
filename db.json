@@ -1,11 +1,103 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Resources" : [ {
+    "kitNumber" : 3324,
+    "inventoryStatus" : 4,
+    "dispensationDate" : "2019-12-19T08:59:45.330Z",
+    "inventoryId" : "9968002A1BBC1843E05336E5990A983E",
+    "unitsPerKit" : 1,
+    "siteId" : "A9A21F073757417C91ECAFB15C20257D",
+    "lastModifiedDate" : "2019-12-19T08:59:45.329Z",
+    "kitDescription" : "C2C_PillBottle",
+    "visitId" : "891A5DD834FF48109D9133DD79570503",
+    "deviceType" : "SmartPillBottle",
+    "deviceConnection" : "CloudtoCloud",
+    "conserved" : false,
+    "allowReplacement" : true
+  }, {
+    "kitNumber" : 8219,
+    "inventoryStatus" : 4,
+    "dispensationDate" : "2019-12-19T08:59:45.330Z",
+    "inventoryId" : "9968002A0D1A1843E05336E5990A983E",
+    "packageTypeId" : 4,
+    "unitsPerKit" : 1,
+    "siteId" : "A9A21F073757417C91ECAFB15C20257D",
+    "lastModifiedDate" : "2019-12-19T08:59:45.325Z",
+    "kitDescription" : "Kit_1828.380",
+    "visitId" : "891A5DD834FF48109D9133DD79570503",
+    "trialSupplyType" : "SYRINGE",
+    "conserved" : false,
+    "allowReplacement" : true
+  }, {
+    "kitNumber" : 20014,
+    "inventoryStatus" : 4,
+    "dispensationDate" : "2019-12-19T08:59:45.330Z",
+    "inventoryId" : "9968002A39091843E05336E5990A983E",
+    "unitsPerKit" : 1,
+    "siteId" : "A9A21F073757417C91ECAFB15C20257D",
+    "lastModifiedDate" : "2019-12-19T08:59:45.328Z",
+    "kitDescription" : "D2C_WearablePatch",
+    "visitId" : "891A5DD834FF48109D9133DD79570503",
+    "deviceType" : "WearablePatch",
+    "deviceConnection" : "DevicetoCloud",
+    "conserved" : false,
+    "allowReplacement" : true
+  }, {
+    "kitNumber" : 23657,
+    "inventoryStatus" : 4,
+    "dispensationDate" : "2019-12-19T08:59:45.330Z",
+    "inventoryId" : "99680029FE731843E05336E5990A983E",
+    "packageTypeId" : 3,
+    "unitsPerKit" : 1,
+    "siteId" : "A9A21F073757417C91ECAFB15C20257D",
+    "lastModifiedDate" : "2019-12-19T08:59:45.326Z",
+    "visitId" : "891A5DD834FF48109D9133DD79570503",
+    "trialSupplyType" : "DEVICE",
+    "conserved" : false,
+    "allowReplacement" : true
+  }, {
+    "kitNumber" : 4241,
+    "inventoryStatus" : 4,
+    "dispensationDate" : "2019-12-19T08:58:47.444Z",
+    "inventoryId" : "9968002A2A6C1843E05336E5990A983E",
+    "unitsPerKit" : 1,
+    "siteId" : "A9A21F073757417C91ECAFB15C20257D",
+    "lastModifiedDate" : "2019-12-19T10:29:06.465Z",
+    "kitDescription" : "D2C_MobileApp",
+    "visitId" : "6278206C472D47829A0115466422AF00",
+    "deviceType" : "MobileApp",
+    "deviceConnection" : "DevicetoCloud",
+    "mHealthDeviceId" : "BF332306-BB0D-4EAA-9ECF-4884291627F5",
+    "conserved" : false,
+    "allowReplacement" : false
+  }, {
+    "kitNumber" : 26270,
+    "inventoryStatus" : 4,
+    "dispensationDate" : "2019-12-19T08:58:47.444Z",
+    "inventoryId" : "9968002A0D191843E05336E5990A983E",
+    "packageTypeId" : 4,
+    "unitsPerKit" : 1,
+    "siteId" : "A9A21F073757417C91ECAFB15C20257D",
+    "lastModifiedDate" : "2019-12-19T08:58:47.443Z",
+    "kitDescription" : "Kit_1828.380",
+    "visitId" : "6278206C472D47829A0115466422AF00",
+    "trialSupplyType" : "SYRINGE",
+    "conserved" : false,
+    "allowReplacement" : false
+  }, {
+    "kitNumber" : 18985,
+    "inventoryStatus" : 4,
+    "dispensationDate" : "2019-12-19T08:57:52.404Z",
+    "inventoryId" : "9968002A47BF1843E05336E5990A983E",
+    "unitsPerKit" : 1,
+    "siteId" : "A9A21F073757417C91ECAFB15C20257D",
+    "lastModifiedDate" : "2019-12-19T08:57:52.360Z",
+    "kitDescription" : "NoConnection_Scale",
+    "visitId" : "5693B239C881467F8E3C98C0462DCC0A",
+    "deviceType" : "WeightScale",
+    "deviceConnection" : "NoConnection",
+    "conserved" : false,
+    "allowReplacement" : false
+  } ],
+  "schemas" : [ "urn:nextgen:schemas:resource:1.0::ListResponse" ],
+  "totalResults" : 7
 }
